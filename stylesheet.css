@@ -147,6 +147,7 @@ h1{
     width: 100%;
     height: 100%;
     position: relative;
+    background: black;
     color: white;
     text-shadow: 1px 1px 1px rgba(0,0,0,.4);
     font-family: 'Bangers', cursive; 
@@ -181,18 +182,20 @@ h1{
 }
 
 .header__nav__text{
+    background: rgba(0,0,0,.8);
+    padding: .25rem;
     position: absolute;
-    transform: translate(0, -50%) scale(1);
-    left: 0;
-    width: 100%;
-    text-align: center;
+    display: inline-block;
+    transform: translate(-50%, -50%) scale(1);
+    left: 50%;
     top: 50%;
+    text-align: center;
     z-index: 2;
     font-size: 2rem;
     transition: transform .25s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
 }
 .header__nav li a:hover .header__nav__text{
-    transform: translate(0, -75%) scale(1.085);
+    transform: translate(-50%, -55%) scale(1.085);
 }
 
 .header__nav img{
