@@ -195,6 +195,7 @@ h1{
     transition: transform .25s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
 }
 .header__nav li a:hover .header__nav__text{
+    background: rgba(0,0,0,1);
     transform: translate(-50%, -55%) scale(1.085);
 }
 
