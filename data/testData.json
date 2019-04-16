@@ -1,0 +1,73 @@
+[
+    {
+        "date": "08.01.2019",
+        "category": "Treningsleir",
+        "distance": "",
+        "gain": "0m",
+        "description": "Treningsleir. Tejeda, Gran Canaria, Spania",
+        "url": "https://sondreamdahl.com/inspirasjon/"
+    },
+    {
+        "date": "16.02.2019",
+        "category": "Race",
+        "distance": "50km",
+        "gain": "0m",
+        "description": "Bislett 50km, Oslo, Norge",
+        "url": "https://www.bislettstadion.no/bislett-alliansen/arrangementer/bislett-50km/"
+    },
+    {
+        "date": "21.04.2019",
+        "category": "Race",
+        "distance": "31km",
+        "gain": "+2000m",
+        "description": "Sky: Mt Awa SkyRace, Sanjō, Japan",
+        "url": "https://www.mtawaverticalkirometer.com/home-1"
+    },
+    {
+        "date": "11.05.2019",
+        "category": "Race",
+        "description": "SuperSky: Transvulcania, La Palma, Spania",
+        "url": "http://transvulcania.es/?lang=en"
+    },
+    {
+        "date": "09.06.2019",
+        "category": "Race",
+        "distance": "44km",
+        "gain": "+2100m",
+        "description": "VM Ultra Trail: Ultra Trilhos Dos Abutres, Portugal",
+        "url": "http://trilhos.abutres.net/en"
+    },
+    {
+        "date": "14.07.2019",
+        "category": "Race",
+        "distance": "42km",
+        "gain": "+3325m",
+        "description": "SuperSky: Buff Epic Trail, Barruera, Spania",
+        "url": "http://www.buffepictrail.com/"
+    },
+    {
+        "date": "15.09.2019",
+        "category": "Race",
+        "distance": "27,5km",
+        "gain": "+2650m",
+        "description": "Sky: Zacup - Skyrace del Grignone",
+        "url": "https://www.zacup.it/en/zacup-grigna-skyrace/"
+    },
+    {
+        "date": "05.10.2019",
+        "category": "Race",
+        "distance": "37km",
+        "gain": "+2575m",
+        "description": "Sky: Sky Pirineu, Bagà, Spania",
+        "url": "https://ultrapirineu.com/es/nit"
+    },
+    {
+        "date": "Høsten 2019",
+        "category": "FKT-forsøk",
+        "location": "Kvaløya, Tromsø, Norge",
+        "distance": "",
+        "gain": "",
+        "description": "Rekordforsøk: Ersfjordtraversen. Foreløpig rekordholder er Kilian Jornet på 4:49'30",
+        "url": "http://kugo.no/2014/08/ersfjordtraversen/"
+    }
+]
