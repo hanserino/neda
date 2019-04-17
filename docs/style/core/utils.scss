@@ -1,0 +1,14 @@
+//Example usage:
+
+@mixin allAbove($size){
+  @media screen and (min-width: map-get($breakpoints, $size)){
+    @content; 
+  }
+}
+
+@mixin allBelow($size){
+  @media screen and (max-width: map-get($breakpoints, $size)){
+    @content; 
+  }
+}
+

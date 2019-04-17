@@ -1,0 +1,57 @@
+
+@charset "utf-8";
+
+// Vendor -------------- //
+@import 'lib/reset';
+
+// Core -------------- //
+@import 'core/vars';
+@import 'core/utils'; 
+@import 'core/icon';
+
+
+// Partials -------------- //
+@import 'partials/header';
+@import 'partials/footer';
+
+@import 'partials/typography';
+
+[data-touch="false"] .mobileOnly { 
+    display: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+@include allAbove(medium){
+
+    [data-touch="false"] .mobileOnly {
+        
+    }
+}
+
+
+body{
+    background: #eee;
+}
+
+.width-limit{
+    max-width: 960px;
+    margin: 0 auto;
+    padding-left: .5em;
+    padding-right: .5rem;
+    
+    @include allAbove(medium){
+        padding-left: 2em;
+        padding-right: 2rem;
+    }
+}
+
+.visuallyhidden { 
+    position: absolute; 
+    overflow: hidden; 
+    clip: rect(0 0 0 0); 
+    height: 1px; width: 1px; 
+    margin: -1px; padding: 0; border: 0; 
+}

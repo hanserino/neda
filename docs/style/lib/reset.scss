@@ -1,0 +1,35 @@
+html, body, div, span,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, img,
+small,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas,
+figure, figcaption, footer, header, 
+nav, output, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+}
+abbr {
+    font-variant: none;
+    text-decoration: none;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}

@@ -1,0 +1,33 @@
+
+<nav class="header__nav f-2">
+    <ul>
+        <li class="{% if page.activeNav == "podcast" %}active{% endif %}">
+            <a href="/podcast">
+                <span class="header__nav__overlay"></span>
+                <span class="header__nav__text">Podcast</span>
+                <img src="{{ "/assets/media/navPics/podcast.jpg" | relative_url }}" alt="Bilde av programlederen i studio" />
+            </a>
+        </li>
+        <li class="{% if page.activeNav == "coaching" %}active{% endif %}">
+            <a href="/lope-coaching">
+                <span class="header__nav__overlay"></span>
+                <span class="header__nav__text">Løpe-<br>coaching</span>
+                <img src="{{ "/assets/media/navPics/coaching.jpg" | relative_url }}" alt="Bilde av HK og Kenneth fra Bislett 50km" />
+            </a>
+        </li>
+        <li class="{% if page.activeNav == "podcast-workshops" %}active{% endif %}">
+            <a href="/podcast-workshops">
+                <span class="header__nav__overlay"></span>
+                <span class="header__nav__text">Podcast-<br>workshops</span>
+                <img src="{{ "/assets/media/navPics/workshop.jpg" | relative_url }}" alt="Mikrofon på toget" />
+            </a>
+        </li>
+        <li class="{% if page.activeNav == "foredrag" %}active{% endif %}">
+            <a href="/foredrag">
+                <span class="header__nav__overlay"></span>
+                <span class="header__nav__text">Foredrag</span>
+                <img src="{{ "/assets/media/navPics/foredrag.jpg" | relative_url }}" alt="Bilde av HK mens han holder foredrag" />
+            </a>
+        </li>
+    </ul>
+</nav>
