@@ -42,10 +42,12 @@ footer nav {
     a {
         color: inherit;
         text-decoration: none;
-        &:hover{
+
+        &:hover span{
             text-decoration: underline;
         }
     }
+    
     svg{
         margin: 0 .25rem 0 0;
     }

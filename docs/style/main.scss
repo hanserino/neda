@@ -55,3 +55,16 @@ body{
     height: 1px; width: 1px; 
     margin: -1px; padding: 0; border: 0; 
 }
+
+main {
+    max-width: 690px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    h1{
+        text-align: center;
+    }
+    ul{
+        margin: 1rem 0;
+        padding: 0 0 0 1.5rem;
+    }
+}

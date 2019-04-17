@@ -29,7 +29,7 @@
     }
 
     .sub & {
-        @include allAbove(small){
+        @include allAbove(medium){
            max-width: 180px;
            margin-right: 1rem;
         }
@@ -46,7 +46,7 @@
     max-width: 1200px;
 
     .sub & {
-        @include allAbove(small){
+        @include allAbove(medium){
            height: 200px;
         }
     }

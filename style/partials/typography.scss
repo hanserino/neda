@@ -5,10 +5,11 @@ body{
     line-height: 1.5;
 }
 h1 {
-    margin: 0 0 .75rem 0;
-    
+    margin: 1rem 0 .75rem 0;
+    font-size: 3rem;
+
     @include allAbove(medium){
-        margin: 0 0 1.5rem 0;
+        margin: 1.5rem 0 1.5rem 0;
     }
 }
 
@@ -18,4 +19,8 @@ h1, h2, .f-2 {
 
 .f-bold, em {
     font-weight: bold;
+}
+
+a {
+    color: inherit;
 }
