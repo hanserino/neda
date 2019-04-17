@@ -15,7 +15,7 @@ var isTouchDevice = function () {
 
 function init() {
 
-    fetch('./data/testData.json').then(function (response) {
+    /*fetch('./data/testData.json').then(function (response) {
         return response.json().then(function (data) {
             testData = data;
 
@@ -27,7 +27,7 @@ function init() {
     }).catch(error => {
         console.log(error);
     });
-
+    */
 
     var touchClass = isTouchDevice() ? "touch" : "no-touch";
     document.body.classList.add(touchClass);
