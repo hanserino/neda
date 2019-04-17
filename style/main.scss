@@ -57,9 +57,10 @@ body{
 }
 
 main {
-    max-width: 690px;
+    max-width: map-get($breakpoints, medium);
     margin: 0 auto;
     padding: 0 1rem;
+
     h1{
         text-align: center;
     }

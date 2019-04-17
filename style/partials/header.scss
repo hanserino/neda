@@ -48,6 +48,7 @@
     .sub & {
         @include allAbove(medium){
            height: 200px;
+           max-width: map-get($breakpoints, medium);
         }
     }
 }
