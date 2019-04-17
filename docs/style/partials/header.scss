@@ -5,6 +5,7 @@
     width: 100%;
 
     &.sub{
+
         @include allAbove(small){
             flex-direction: row;
             align-items: flex-start;
@@ -15,20 +16,21 @@
 }
 
 .header__logo {
-    width: 35%;
+    width: 25%;
     max-width: 250px;
     transform: rotate(0deg);
     border-radius: 50%;
-    border: 5px solid rgba(0,0,0,1);
+    border: 4px solid rgba(0,0,0,1);
     transition: transform .5s ease-in-out 0s;
     margin: 1rem;
 
-    @include allAbove(small){
+    @include allAbove(medium){
         margin: 2rem 0 3rem 0;
         border-width: 5px;
     }
 
     .sub & {
+        
         @include allAbove(medium){
            max-width: 180px;
            margin-right: 1rem;
@@ -44,6 +46,10 @@
 .header__nav{
     width: 100%;
     max-width: 1200px;
+
+    @include allAbove(medium){
+        height: 300px;
+    }
 
     .sub & {
         @include allAbove(medium){
@@ -61,37 +67,42 @@
     height: 100%;
     flex-wrap: wrap;
     border: 2px solid black; 
-}
 
-.header__nav li {
-    width: 50%;
-    height: 200px;
-    position: relative;
-    overflow: hidden;
-    border: 5px solid black;
-    border-width: 2px;
-}
-
-@media (min-width: 650px){
-    .header__nav{
-        height: 320px;
-    }
-
-    .header__nav ul{
+    @include allAbove(medium){
         flex-direction: row;
         align-items: stretch;
         overflow: hidden;
         border: 5px solid black;
     }
+}
 
-    .header__nav li{
+.header__nav li {
+    width: 25%;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border: 5px solid black;
+    border-width: 2px;
+
+    @include allAbove(medium){
+        border-width: 0 0 0 5px;
         height: 100%;
         width: 100%;
         flex: 1;
-        border-width: 0 0 0 5px;
+        
+        &:first-child{
+            border-left: 0;
+        }
     }
-    .header__nav li:first-child{
-        border-left: 0;
+    
+    .sub & {
+        width: 25%;
+        height: 100px;
+
+        @include allAbove(medium){
+            height: 100%;
+            width: 100%;
+        }
     }
 }
 
@@ -152,7 +163,16 @@
     z-index: 2;
     font-size: 2rem;
     transition: transform .25s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+
+    .sub & {
+        font-size: 1rem;
+        @include allAbove(medium){
+            font-size: 2rem;
+        }
+    }
 }
+
+
 .header__nav li a:hover .header__nav__text{
     background: rgba(0,0,0,1);
     transform: translate(-50%, -55%) scale(1.085);
