@@ -14,21 +14,6 @@ var isTouchDevice = function () {
 
 
 function init() {
-
-    /*fetch('./data/testData.json').then(function (response) {
-        return response.json().then(function (data) {
-            testData = data;
-
-            for (var i = 0; i < testData.length; i++) {
-               // console.log(testData[i])
-            }
-
-        });
-    }).catch(error => {
-        console.log(error);
-    });
-    */
-
     var touchClass = isTouchDevice() ? "touch" : "no-touch";
     document.body.classList.add(touchClass);
 }
