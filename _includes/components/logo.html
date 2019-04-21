@@ -1,1 +1,10 @@
-<img src="{{ "/assets/media/neda-logo.png" | relative_url }}" alt="Nå Er Det Alvor Logo" class="logo" />
+<span class="{{include.title}} logo f-2">
+    
+    <span class="logo__title">
+        <span class="logo__title__constant">Nå er det</span>
+        <span class="logo__title__variable">{{ include.title }}</span>
+    </span>
+    
+    <img src="{{ "/assets/media/logo_bg.png" | relative_url }}" alt="Nå Er Det Alvor Logo" class="logo__img" />
+
+</span>

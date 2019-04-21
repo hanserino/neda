@@ -3,6 +3,7 @@ layout: podcast
 permalink: /podcast/
 title: Podcast
 activeNav: podcast
+logoTitle: podcast
 ---
 
 Podcasten NÅ ER DET ALVOR er en norsk podcast produsert av ultraløper [Hans Kristian Smedsrød](https://hanskristiansmedsrod.no/). Første episode ble publisert januar 2018, og siden har det bare ballet på seg. Episodene er ofte ultra-lange og passer perfekt å ha på øret mens man feks løper eller er i aktivitet. Siden programlederen er aktiv løper handler episodene ofte om løping, men ikke alltid. Du finner NÅ ER DET ALVOR i alle populære podcast-apps. 

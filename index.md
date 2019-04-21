@@ -1,5 +1,4 @@
 ---
 layout: index
+logoTitle: alvor
 ---
-
-hello. this is index content

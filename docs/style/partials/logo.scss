@@ -1,0 +1,87 @@
+.logo{
+    border-radius: 50%;
+    border: 4px solid rgba(0,0,0,1);
+    transition: transform .5s ease-in-out 0s;
+    background: $swatch1;
+    position: relative;
+    display: block;
+
+    &__title {
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 0;
+        transform: translate(0, -40%);
+        width: 100%;
+        text-align: center;
+        line-height: 1.15;
+        text-shadow: -0.1rem 0.1rem 0px rgba(0,0,0,0.2);
+
+        &__constant{
+            display: block;
+            font-size: 1.2rem;
+
+            @include allAbove(medium){
+                font-size: 2.5rem;
+            }
+        }
+
+        &__variable{
+            display: block;
+        }
+    }
+
+    &__img{
+        display: block;
+        width: 100%;
+    }
+
+    @include allAbove(medium){
+        border-width: 5px;
+    }
+}
+
+
+
+
+
+
+.logo.alvor .logo__title__variable{
+    font-size: 1.8rem;
+
+    @include allAbove(medium){
+        font-size: 2.5rem;
+    }
+}
+
+.logo.podcast .logo__title__variable{
+    font-size: 1.3rem;
+
+    @include allAbove(medium){
+        font-size: 2.5rem;
+    }
+}
+
+.logo.coaching .logo__title__variable{
+    font-size: 1.2rem;
+
+    @include allAbove(medium){
+        font-size: 2.5rem;
+    }
+}
+
+.logo.workshops .logo__title__variable{
+    font-size: 1rem;
+
+    @include allAbove(medium){
+        font-size: 2rem;
+    }
+}
+
+.logo.foredrag .logo__title__variable{
+    font-size: 1.1rem;
+
+    @include allAbove(medium){
+        font-size: 2.2rem;
+    }
+}

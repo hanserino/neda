@@ -1,6 +1,9 @@
 <header class="header">
     <a class="header__logo" href="/" title="Forside">
-        {% include components/logo.html %}
+        {% include components/logo.html 
+            title=page.logoTitle
+        %}
     </a>
+
     {% include navigation.html %}
 </header>

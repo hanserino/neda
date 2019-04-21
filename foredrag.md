@@ -3,6 +3,7 @@ layout: sub
 permalink: /foredrag/
 title: Foredrag
 activeNav: foredrag
+logoTitle: foredrag
 ---
 
 Jeg tilbyr foredrag i form av undervisning eller som inspirasjon. I undervisningsforedraget går jeg i dybden på podcasting som fag. I Inspirasjonsforedraget snakker jeg om min reise fra hvordan jeg podcastet meg ut av A4-livet. 
