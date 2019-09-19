@@ -1,0 +1,89 @@
+html {
+  color: #242430;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+body{
+  background: #cfd7ec;
+  text-align: center;
+}
+[data-mode="1"]{
+  background: white;
+}
+
+header{
+  position: relative;
+  z-index: 2;
+}
+
+.title, 
+.subtitle, 
+.johannes {
+  transition: 1s opacity ease-out 0s;
+}
+
+.title {
+  font-size: 15vw;
+  line-height: 1;
+  margin: 2rem 0 1rem;
+  text-transform: uppercase;
+  font-family: futura, 'Helvetica Neue', sans-serif;
+  opacity: 0;
+  transition-delay: 0s;
+}
+
+.subtitle {
+  font-size: 1.25rem;
+  opacity: 0;
+  transition-delay: 2s;
+}
+
+.loaded .title, 
+.loaded .subtitle{
+  opacity: 1;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+#poster{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  width: 100%;
+  text-align: center;
+  font-size: 0;
+}
+
+#poster img {
+  display: inline-block;
+  width: auto;
+  max-height: 55vh;
+}
+
+[data-mode="2"] #poster{
+  width: 100%;
+  z-index: 0;
+}
+
+[data-mode="2"] #poster img{
+  max-height: 100vh;
+  max-width: 200%;
+  height: auto;
+}
+
+::-moz-selection {
+  background: #242430;
+  color: white;
+  text-shadow: none;
+}
+
+::selection {
+  background: #242430;
+  color: white;
+  text-shadow: none;
+}
