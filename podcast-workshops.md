@@ -6,7 +6,7 @@ activeNav: podcast-workshops
 logoTitle: workshops
 ---
 
-Jeg spår at 2019 er podcastens år i Norge. Ikke bare skal "alle" privatpersoner ha en podcast, men også alle bedrifter skal ha det. Men burde din bedrift ha en podcast? Hvem er målgruppen? Skal du bruke den som et internt kommunikasjonsverktøy? Eller skal du spre et budskap til allmenheten? Eller kanskje begge deler? Men hvordan lager man egentlig en podcast? Om du hyrer meg inn til workshop i din bedrift kan du forvente å få svar på følgende spørsmål:
+Jeg spår at 2020 er podcastens år i Norge. Ikke bare skal "alle" privatpersoner ha en podcast, men også alle bedrifter skal ha det. Men burde din bedrift ha en podcast? Hvem er målgruppen? Skal du bruke den som et internt kommunikasjonsverktøy? Eller skal du spre et budskap til allmenheten? Eller kanskje begge deler? Men hvordan lager man egentlig en podcast? Om du hyrer meg inn til workshop i din bedrift kan du forvente å få svar på følgende spørsmål:
 
 - Hvordan oppretter man en podcast? 
 - Hvordan publiserer man den til iTunes, Spotify, Alexa, Stitcher etc.
