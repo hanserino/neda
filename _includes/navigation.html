@@ -29,5 +29,12 @@
                 <img src="{{ "/assets/media/navPics/foredrag.jpg" | relative_url }}" alt="Bilde av HK mens han holder foredrag" />
             </a>
         </li>
+        <li class="{% if page.activeNav == "spons" %}active{% endif %}">
+            <a href="/spons">
+                <span class="header__nav__overlay"></span>
+                <span class="header__nav__text">Spons</span>
+                <img src="{{ "/assets/media/navPics/spons.jpg" | relative_url }}" alt="" />
+            </a>
+        </li>
     </ul>
 </nav>

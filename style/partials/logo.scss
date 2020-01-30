@@ -80,3 +80,11 @@
         font-size: 2.2rem;
     }
 }
+
+.logo.spons .logo__title__variable{
+    font-size: 1.25rem;
+
+    @include allAbove(medium){
+        font-size: 2.2rem;
+    }
+}

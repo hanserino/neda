@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "nb" }}">
+
+{% include head.html %}
+
+<body data-touch="" class="sub">
+    {% include symbols.html %}
+    {% include header.html %}
+
+    <main>        
+        {{ content }}
+    </main>
+
+    {% include footer.html %}
+
+</body> 

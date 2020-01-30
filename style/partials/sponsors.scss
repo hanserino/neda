@@ -1,0 +1,22 @@
+.sponsors {
+    list-style: none;
+    display: flex;
+    flex-flow: wrap;
+    padding: 0;
+    margin: 0;
+    background: rgba(255,255,255,.5);
+
+    &__sponsor{
+        margin: auto;
+        width: (100% / 3);
+    }
+    a {
+        border: none;
+        text-decoration: none;
+        display: block;
+        padding: .5rem;
+        @include allAbove(medium){
+            padding: 1rem;
+        }
+    }
+}

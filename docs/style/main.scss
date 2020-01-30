@@ -16,6 +16,8 @@
 @import 'partials/footer';
 
 @import 'partials/typography';
+@import 'partials/sponsors';
+@import 'partials/patrons';
 
 [data-touch="false"] .mobileOnly { 
     display: none;
@@ -71,6 +73,9 @@ main {
     }
     li {
         margin: .5rem 0;
+    }
+    p {
+        margin: 0 0 1rem 0;
     }
 }
 
