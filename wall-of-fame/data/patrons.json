@@ -59,6 +59,11 @@
         "img_url": "50.jpg"
     },
     {
+        "name": "Bård H P",
+        "img_url": "bard_b_p.jpg",
+        "new": true
+    },
+    {
         "name": "Caoimh",
         "img_url": "caoimh.jpg"
     },
