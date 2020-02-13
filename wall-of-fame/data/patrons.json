@@ -197,10 +197,14 @@
         "img_url": "knut.jpg"
     },
     {
-        "name": "Kristian H",
+        "name": "Kristian Hjelle",
+        "img_url": "kristian_hjelle.png",
+        "honnold": true
+    },
+    {
+        "name": "Kristian Hovd",
         "img_url": "kristian.png"
     },
-
     {
         "name": "Liss",
         "img_url": "56.jpg"
