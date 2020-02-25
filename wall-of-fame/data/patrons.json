@@ -85,6 +85,11 @@
         "img_url": "blank.png"
     },
     {
+        "name": "Dag-Arne Christiansen",
+        "img_url": "blank.png",
+        "new": true
+    },
+    {
         "name": "Eline",
         "img_url": "eline.jpg",
         "new": true 
@@ -268,10 +273,6 @@
     {
         "name": "Reidun A",
         "img_url": "22.jpg"
-    },
-    {
-        "name": "Remy",
-        "img_url": "24.jpg"
     },
     {
         "name": "Rina",
