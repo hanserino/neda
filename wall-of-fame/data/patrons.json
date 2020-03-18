@@ -14,8 +14,7 @@
     {
         "name": "Amund",
         "img_url": "amund.jpg",
-        "new": true,
-        "honnold": true
+        "new": true
     },
     {
         "name": "Anders A P",
@@ -65,8 +64,7 @@
     },
     {
         "name": "Bård H P",
-        "img_url": "bard_h_p.jpg",
-        "new": true
+        "img_url": "bard_h_p.jpg"
     },
     {
         "name": "Caoimh",
@@ -82,8 +80,7 @@
     },
     {
         "name": "Christian R",
-        "img_url": "christian_r.jpg",
-        "new": true
+        "img_url": "christian_r.jpg"
     },
     {
         "name": "Christian F R",
@@ -309,8 +306,7 @@
     },
     {
         "name": "Simen H",
-        "img_url": "simen_h.jpg",
-        "new": true
+        "img_url": "simen_h.jpg"
     },
     {
         "name": "Sondre A",
@@ -410,8 +406,7 @@
     },
     {
         "name": "Øyvind S",
-        "img_url": "oyvind_s.jpg",
-        "new": true
+        "img_url": "oyvind_s.jpg"
     },
     {
         "name": "Anonymous",
