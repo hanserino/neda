@@ -59,6 +59,11 @@
         "img_url": "50.jpg"
     },
     {
+        "name": "Børre Finsrud",
+        "img_url": "borre.jpg",
+        "new": true
+    },
+    {
         "name": "Bård H P",
         "img_url": "bard_h_p.jpg",
         "new": true
