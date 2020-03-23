@@ -7,7 +7,7 @@ logoTitle: spons
 ---
 
 # Crowdfunding
-N.E.D.A er hovedsakelig finansiert ved bruk av **crowdfunding**, dvs at en mengde mennesker spytter inn en slant hver måned. Som hjelpemiddel blir Patreon flittig brukt – ikke bare for å ta imot donasjoner, men for å gi disse menneskene eksklusivt innhold de ellers ikke ville hatt tilgang til. Gira på å bidra? [Sjekk ut Patreon-siden til N.E.D.A her](https://www.patreon.com/alvorpodcast).
+N.E.D.A er hovedsakelig finansiert ved bruk av **crowdfunding**, dvs at en mengde mennesker spytter inn en slant hver måned. Som hjelpemiddel blir Patreon flittig brukt – ikke bare for å ta imot donasjoner, men for å gi disse menneskene eksklusivt innhold de ellers ikke ville hatt tilgang til. Gira på å bidra? [Sjekk ut Patreon-siden til N.E.D.A her](https://www.patreon.com/nedaproject).
 
 Her er noen av de som støtter podcasten på Patreon. Gå til [Patreon Wall of Fame](https://naerdetalvor.no/wall-of-fame/) for full oversikt og oppdatert liste.
 
