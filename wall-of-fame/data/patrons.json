@@ -325,12 +325,13 @@
         "img_url": "28.jpg"
     },
     {
-        "name": "Terje S",
-        "img_url": "29.jpg"
-    },
-    {
         "name": "Therese G",
         "img_url": "therese.jpg"
+    },
+    {
+        "name": "Tiril Staver Eid",
+        "img_url": "t.png",
+        "new": true
     },
     {
         "name": "Thomas S",
