@@ -157,6 +157,11 @@
         "img_url": "46.jpg"
     },
     {
+        "name": "John Bratteli",
+        "img_url": "blank.png",
+        "new": true
+    },
+    {
         "name": "Johannes G",
         "img_url": "blank.png"
     },
@@ -223,6 +228,11 @@
     {
         "name": "Margareth H M",
         "img_url": "margareth_m.jpg"
+    },
+    {
+        "name": "Mari Jørgensen",
+        "img_url": "mari.jpg",
+        "new": true
     },
     {
         "name": "Marie S",
