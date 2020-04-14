@@ -197,6 +197,11 @@
         "img_url": "15.jpg"
     },
     {
+        "name": "Knut Willy Steen",
+        "img_url": "blank.png",
+        "new": true
+    },
+    {
         "name": "Kim André",
         "img_url": "kim.jpg"
     },
