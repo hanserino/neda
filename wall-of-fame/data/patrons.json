@@ -393,6 +393,11 @@
         "img_url": "blank.png"
     },
     {
+        "name": "Vegard Hundsnes",
+        "img_url": "v.png",
+        "new": true
+    },
+    {
         "name": "Vegard R",
         "img_url": "34.jpg"
     },
