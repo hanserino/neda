@@ -248,6 +248,16 @@
         "img_url": "6.jpg"
     },
     {
+        "name": "Martin Ervik",
+        "img_url": "martin_ervik.png",
+        "new": true
+    },
+    {
+        "name": "Matias Bollingmo",
+        "img_url": "matias_bollingmo.jpg",
+        "new": true
+    },
+    {
         "name": "Mathieu",
         "img_url": "19.jpg"
     },
