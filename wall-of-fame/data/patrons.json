@@ -262,6 +262,11 @@
         "img_url": "19.jpg"
     },
     {
+        "name": "Matz",
+        "img_url": "matz.jpg",
+        "new": true
+    },
+    {
         "name": "Monika",
         "img_url": "51.jpg"
     },
