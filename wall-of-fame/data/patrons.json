@@ -97,6 +97,12 @@
         "new": true 
     },
     {
+        "name": "Eivind Furnesvik",
+        "img_url": "eivind_furnesvik.jpg",
+        "new": true,
+        "honnold": true
+    },
+    {
         "name": "Erling",
         "img_url": "erling.jpg"   
     },
@@ -213,6 +219,11 @@
     {
         "name": "Kristian Hovd",
         "img_url": "kristian.png"
+    },
+    {
+        "name": "Lars I. Sodefjed",
+        "img_url": "lars_sodefjed.jpg", 
+        "new": true
     },
     {
         "name": "Liss",
