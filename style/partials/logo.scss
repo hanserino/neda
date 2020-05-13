@@ -88,3 +88,11 @@
         font-size: 2.2rem;
     }
 }
+
+.logo.Telefonsvarer .logo__title__variable{
+    font-size: 1rem;
+
+    @include allAbove(medium){
+        font-size: 1.5rem;
+    }
+}
