@@ -1,654 +1,670 @@
 [
     {
-    "Name":"Agnete Prydz"
-   ,"Tier":"El maestro de la gel"
-    },
-    {
+        "Name":"Agnete Prydz"
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Aleksander Anderssen Thornam"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Alexander Baustad"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Amir Ghoreshi"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Amund Hagen Kristiansen"
-    ,"Tier":"Honnold Foundation"
-    },
-    {
+       ,"Tier":"HONNOLD FOUNDATION"
+     },
+     {
         "Name":"Anders Alstad Prøsch"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Andreas Rand"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Andreas Strømsnes Bø"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Annette Velde Sande"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Are Fetveit"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Arthur Midtgaard"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Arvid Rage Arntzen"
-    ,"Tier":"Honnold Foundation"
-    },
-    {
+       ,"Tier":"HONNOLD FOUNDATION"
+     },
+     {
         "Name":"Asbjørn Ellingsen "
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Asgeir Hjorthaug"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Bent Ingebrigtsen"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Bernt Natvig"
-    ,"Tier":"Bak kulissene"
-    },
-    {
-        "Name":"Bilal"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
+        "Name":"Bilal "
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Bjørn Fjukstad"
-    ,"Tier":""
-    },
-    {
+       ,"Tier":""
+     },
+     {
         "Name":"Bjørn Mæland"
-    ,"Tier":"Bak kulissene"
-    },
-    {
-        "Name":"Bjørn Otto Bakkejord"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Bjørnar Eidsmo"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Bård Henry Paulsen"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Bård Smedsrød"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Caoimh"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Børre Finsrud"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Caoimh "
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Christel Elvestad"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Christian Alsing"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"christian bergheim"
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Christian F Rushfeldt"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Christian Randholm"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Dag-Arne Kristiansen"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Dani Wold Kristiansen"
-    ,"Tier":"Bak kulissene"
-    },
-    {
-        "Name":"David Hole"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
+        "Name":"Eirik Gundersen"
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
+        "Name":"Eivind Furnesvik"
+       ,"Tier":"HONNOLD FOUNDATION"
+     },
+     {
         "Name":"Eline Hestad"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Elisabeth Borgersen"
-    ,"Tier":""
-    },
-    {
-        "Name":"Eric Andréasson"
-    ,"Tier":"Bak kulissene"
-    },
-    {
-        "Name":"Erling"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":""
+     },
+     {
+        "Name":"Emil Stafsnes"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Erling "
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Espen Bjørkeng"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Fred Andersen"
-    ,"Tier":"Løpe-coaching"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Fredrik Hildebrand"
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Fredrik Wilhelmsen"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Geir Hanssen"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Geir Johansen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Gorm Solhaug"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Gunnar Bruun"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Guro Bredenbeck"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Gøran Rasmussen-Åland"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Hallvard Schjolberg"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Hans Ranøyen Homb"
-    ,"Tier":"Bak kulissene"
-    },
-    {
-        "Name":"HansKerom"
-    ,"Tier":"Bak kulissene"
-    },
-    {
-        "Name":"Harefruen"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
+        "Name":"HansKerom "
+       ,"Tier":"Bak kulissene"
+     },
+     {
+        "Name":"Harefruen "
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Helge Skoglund"
-    ,"Tier":"Bak kulissene"
-    },
-    {
-        "Name":"Henrik"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
+        "Name":"Henrik "
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Håkon Roald"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"IamSpeed"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"IamSpeed "
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Ida Sortland"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Inger Aaberg"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Ingrid Johanna C. Fløgstad"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Ingrid Lid"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Ingvild Gabrielsen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Irvin Kilde"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Jan Erik Alverdus Berg"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Jan Magnus Brevik"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Jarle Vikør Ekanger"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Jeffrey Spronk"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Jenny Midbjer"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Jimwa"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Jimwa "
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Joachim Prøsch Johnsen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Joakim Oldervik"
-    ,"Tier":""
-    },
-    {
+       ,"Tier":""
+     },
+     {
         "Name":"Johannes Gunnarsson"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Johannes Rummelhoff"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"John Bratteli"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Jon Atle Eskedal"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Jon-Kristian Rydningen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Jonas Bye Enevoldsen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Jone Urstad"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Jørgen Gromstad"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Jørgen Tellefsen"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Kaja Thilesen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Kathrine Steinvik"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
+        "Name":"Katrine Andersen"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Kenneth Breen"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Kenneth Dæhlen"
-    ,"Tier":"Løpe-coaching"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Kim André Bøe"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Knut Einar Langlo"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Knut Willy Steen"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Kristian Hjelle"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"HONNOLD FOUNDATION"
+     },
+     {
         "Name":"Kristian Hovd"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Lars I. Sodefjed"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Lars Staver Eid"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
-        "Name":"Liss"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
+        "Name":"Liss "
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Liv-Anna folgerø"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Magne Kvalsøren"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"magnus følling"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Magnus Mühlbradt"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Manne Sendel"
-    ,"Tier":"Bak kulissene"
-    },
-    {
-        "Name":"Marcus Sevaldsen"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Margaret H. Mills"
-    ,"Tier":"Mukbang"
-    },
-    {
+       ,"Tier":"Mukbang"
+     },
+     {
+        "Name":"Margrethe Løvold"
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
+        "Name":"Mari Jørgensen"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Marianne Aarstad"
-    ,"Tier":"Bak kulissene"
-    },
-    {
-        "Name":"Marianne Almaas"
-    ,"Tier":"Løpe-coaching"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Marianne Løvskar"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Marie Smedsrød"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Marius Røren"
-    ,"Tier":"Bak kulissene"
-    },
-    {
-        "Name":"Markus Bjølgerud"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Markus Karlstad"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
+        "Name":"Martin Ervik"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Martin Langholmen"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Martin Sivertsen Adams"
-    ,"Tier":""
-    },
-    {
+       ,"Tier":""
+     },
+     {
         "Name":"Mathieu Bocchi"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Matz"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Matias Bollingmo"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Matz "
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Molly Bazilchuk"
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Monika Kransvik"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Morten Bergesen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Morten Reksten"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Ninaen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Ninaen "
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Ola Skatvedt"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Olav Holden"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Ole Andreas Ramsdal"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Ole Malvin Øvreås"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Patrick Stangbye"
-    ,"Tier":""
-    },
-    {
+       ,"Tier":""
+     },
+     {
         "Name":"Per Ferner"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Peter Bytofte-Hejlesen"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Peter Dannevig"
-    ,"Tier":""
-    },
-    {
+       ,"Tier":""
+     },
+     {
         "Name":"Ragnar Kvitberg"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Reidun Andreassen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Remy Eik"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Remi Knudsen Allegre"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Rina Dæhlen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Robert Bue"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Ruben Aksnes"
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Ruben Eidesen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Ruben Getz"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Ruben Hollund Espeland"
-    ,"Tier":"Honnold Foundation"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Rudi Placht"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Runar Sæther"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Sigrid Vedde Kroken"
-    ,"Tier":"Løpe-coaching"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Sigve Vågsnes"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Simen Holvik"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
+        "Name":"Skjalg "
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Sky Blazers"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Sondre Amdahl"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Stein Erik Fagerthun"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Stig Morken"
-    ,"Tier":"Løpe-coaching"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Ståle Nordahl"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Svein André Hals"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Tarjei Utnes"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Terje Snarby"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Therese Glimskär"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Thomas Skjæveland"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Thomas Stordalen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Thomas Øderud"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Thor-Erik Johnsrud"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
+        "Name":"Tiril Staver Eid"
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Tone Øksenvåg"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Torbjørn Bø"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Tord Tøllefsen"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Torgeir Andreassen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Tormod Haugene"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
-        "Name":"Travålta"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
+        "Name":"Travålta "
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Trond Aadnesen"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Trond Arne Liavik"
-    ,"Tier":"El maestro de la gel"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Truls Lurås"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"trygve ugelstad"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Trym Nilsen"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Tyler Jones"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Unni Dahl Ottesen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Vegard A. Johansen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Vegard Hundsnes"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Vegard Ringsby Hasselgård"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
-        "Name":"Vegard Vamråk"
-    ,"Tier":""
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Yngve Ueland"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Øivind Christian Thuen"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Øystein Due"
-    ,"Tier":"Behind the scenes"
-    },
-    {
-        "Name":"Øyvind Brekkhus Sandåker"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"BEHIND THE SCENES"
+     },
+     {
         "Name":"Øyvind Lerø"
-    ,"Tier":"Mest bang for the buck"
-    },
-    {
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     },
+     {
         "Name":"Øyvind Maarud"
-    ,"Tier":"Bak kulissene"
-    },
-    {
+       ,"Tier":"Bak kulissene"
+     },
+     {
         "Name":"Øyvind Skjerstad Ramsøy"
-    ,"Tier":"Mest bang for the buck"
-    }
+       ,"Tier":"THE MOST BANG FOR YOUR BUCK"
+     }
 ]
