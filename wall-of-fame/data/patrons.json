@@ -302,6 +302,11 @@
         "img_url": "olav.jpg"
     },
     {
+        "name": "Ole Malvin Øvreås",
+        "img_url": "blank.png",
+        "new": true
+    },
+    {
         "name": "Ragnar K",
         "img_url": "ragnar.jpg"
     },
@@ -401,6 +406,11 @@
     {
         "name": "Thor-Erik",
         "img_url": "2.jpg"
+    },
+    {
+        "name": "Tore Høgalmen",
+        "img_url": "tore-hogalmen.jpg",
+        "new": true
     },
     {
         "name": "Trygve U",
