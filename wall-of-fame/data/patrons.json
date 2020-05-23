@@ -307,6 +307,11 @@
         "new": true
     },
     {
+        "name": "Otto Galta",
+        "img_url": "blank.png",
+        "new": true
+    },
+    {
         "name": "Ragnar K",
         "img_url": "ragnar.jpg"
     },
@@ -442,7 +447,7 @@
         "img_url": "oivind.jpeg"
     },
     {
-        "name": "Øyvind B",
+        "name": "Øyvind Brekkhus Sandåker",
         "img_url": "oyvind_b.jpg"
     },
     {
