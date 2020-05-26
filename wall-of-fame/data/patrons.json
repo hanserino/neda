@@ -42,6 +42,11 @@
         "img_url": "7.jpg"
     },
     {
+        "name": "Bent Brørs",
+        "img_url": "bent_brors.jpg",
+        "new": true
+    },
+    {
         "name": "Bilal",
         "img_url": "bilal.jpg"
     },
