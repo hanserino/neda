@@ -84,6 +84,11 @@
         "img_url": "christian_a.jpg"
     },
     {
+        "name": "Christopher Byrne",
+        "img_url": "blank-2.png",
+        "new": true
+    },
+    {
         "name": "Christian R",
         "img_url": "christian_r.jpg"
     },
