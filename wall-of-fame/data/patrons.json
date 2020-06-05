@@ -367,6 +367,11 @@
     "img_url": "simen_h.jpg"
   },
   {
+    "name": "Sindre Grødem",
+    "img_url": "sindre-grodem.jpg",
+    "new": true
+  },
+  {
     "name": "Sondre A",
     "img_url": "sondre.jpg"
   },
