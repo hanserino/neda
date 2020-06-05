@@ -409,6 +409,11 @@
     "img_url": "tone.jpg"
   },
   {
+    "name": "Tom Edward Simonsen",
+    "img_url": "tom-edward.jpg",
+    "new": true
+  },
+  {
     "name": "Torbjørn",
     "img_url": "torbjorn_b.png"
   },
