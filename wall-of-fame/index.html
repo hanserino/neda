@@ -20,7 +20,7 @@
         <meta property="og:title" content="NÅ ER DET ALVOR - Wall Of Fame" />
         <meta property="og:image" content="patrons_fb.jpg">
         <meta property="og:url" content="https://naerdetalvor.no/wall-of-fame">
-        
+                
         <link href="https://fonts.googleapis.com/css?family=Bangers|Open+Sans" rel="stylesheet">
         
         <style>
@@ -272,30 +272,7 @@
                 margin: 1rem 0;
                 font-size: 1.25rem;
             }
-            
 
-            .honnold-badge {
-                position: absolute;
-                bottom: 2px;
-                left: 2px;
-                width: 90%;
-                height: auto;
-                padding: 2px;
-                background: rgba(0,0,0,.75);
-            }
-            [data-honnold="true"]{
-                border: 2px solid yellow;
-            }
-
-            .active[data-honnold="true"]{
-                border: none;
-            }
-
-            .active .honnold-badge {
-                width: 150px;
-                top: 1rem;
-                left: 1rem;
-            }
 
             #allPatrons{
                 margin: 3rem 0 0 0;
@@ -318,9 +295,7 @@
             }
 
             @media (min-width: 650px){
-                .active .honnold-badge {
-                    width: 200px;
-                }
+       
                 li.active {
                     background: black;
                     border: none;
@@ -353,11 +328,11 @@
 
         <div class="wrapper">
             <h1 id="title">Patreon Wall Of Fame</h1>
-            <p class="subtitle">These individuals support the production of <abbr title="Nå Er Det Alvor">NEDA</abbr> with $10 or more on <a href="https://www.patreon.com/nedaproject">Patreon</a>:</p>
+            <p class="subtitle">Disse menneskene støtter <abbr title="Nå Er Det Alvor">NEDA</abbr> med $10 eller mer på <a href="https://www.patreon.com/nedaproject">Patreon</a>:</p>
             <ul id="patrons"></ul>
             
             <div id="allPatrons">
-                <p class="subtitle">Here's a complete list of all NEDA patrons: </p>
+                <p class="subtitle">Her er en liste med alle sammen: </p>
                 <ul id="simpleList"></ul>
             </div>
         </div>
@@ -365,45 +340,25 @@
         <div class="join">            
             <a target="_blank" href="https://www.patreon.com/nedaproject">
                 <svg class="patreon-logo" viewBox="0 0 569 546" xmlns="http://www.w3.org/2000/svg"><g><circle data-fill="1" id="Oval" cx="362.589996" cy="204.589996" r="204.589996"></circle><rect data-fill="2" id="Rectangle" x="0" y="0" width="100" height="545.799988"></rect></g></svg>
-                <span>Support the show on Patreon</span>
+                <span>Støtt NEDA og få tilgang til podcasten på Patreon</span>
             </a>
         </div>
         
         <script>
+
             let patrons = {};
             let allPatrons = {};
             const titleEl = document.getElementById('title');
             let siblings, allElements, activeElement;
             let active;
 
-            function renderPic(inc, name, picName, isNew, isHonnold) {
-                var newHtml = " ",
-                    honnoldHtml = " ";
-                    
-                if (isNew) {
-                    newHtml = `<span class="new-badge">Ny!</span>`;
-                }
-                if (isHonnold) {
-                    honnoldHtml = `<img class="honnold-badge" src="patronPics/honnold.png" alt="honnold foundation logo" />`;
-                }
+            function renderPicEl(inc, name, tier, id) {
 
-                var picHtml = `<li onclick="setActive(this, ${inc})" title="${name}" class="patrons__patron" data-new="${isNew}" data-honnold="${isHonnold}">
-                                <img class="patron-pic" src="patronPics/${picName}">
+                var wrapHtml = `<li onclick="setActive(this, ${inc})" title="${name}" class="patrons__patron">
+                                <img class="patron-pic" src='patronPics/${id}.jpg' />
                                 <span class="patron-name">${name}</span>
-                                ${newHtml}
-                                ${honnoldHtml}
                             </li>`;
-                return picHtml;
-            }
-
-            function renderAllPatrons(name, tier, last){
-                var comma = "";
-
-                if (!last){
-                    comma = ", ";
-                }
-
-                return `<li class="" data-tier="${tier}">${name}${comma}</li>`;
+                return wrapHtml;
             }
 
             function setActive(el, i){
@@ -411,6 +366,8 @@
                 siblings = activeElement.parentNode.children;
                 allElements = Array.from(siblings);
                 active = i;
+
+                console.log(el, i);
 
                 for (let element of allElements) {
                     element.classList.remove('active')
@@ -421,32 +378,41 @@
                 document.documentElement.scrollTop = 0;
                 console.log(active);
             }
-        
+            
+
             window.addEventListener('load', function () {
                 var patronsEl = document.getElementById("patrons");
                 var allPatronsEl = document.getElementById("simpleList");
+                var pic = false;
                 
-                fetch('data/patrons.json').then(function (response) {
+                fetch('data/patrons2.json').then(function (response) {
                     return response.json().then(function (data) {
                         patrons = data;
-                        let newBadge, honnoldBadge = false;
 
                         for (var i = 0; i < patrons.length; i++) {
-                            newBadge = patrons[i].new;
-                            honnoldBadge = patrons[i].honnold;
-
-                            patronsEl.innerHTML += renderPic(i, patrons[i].name, patrons[i].img_url, newBadge, honnoldBadge);
+                            patronsEl.innerHTML += renderPicEl(i, patrons[i].Name, patrons[i].Tier, patrons[i].user_id);
                         }
                     });
                 }).catch(error => {
-                    console.log(error);
+                    console.log(error, 'lol');
                 });
+
+            
+
+                function renderAllPatrons(name, tier, last){
+                    var comma = "";
+
+                    if (!last){
+                        comma = ", ";
+                    }
+
+                    return `<li class="" data-tier="${tier}">${name}${comma}</li>`;
+                }
 
                 fetch('data/allPatrons.json').then(function (response) {
                     return response.json().then(function (data) {
                         allPatrons = data;
                         var lastItem = false;
-                        console.log(allPatrons.length);
 
                         for (var i = 0; i < allPatrons.length; i++) {
                             if(i === allPatrons.length-1){
@@ -473,6 +439,9 @@
                         }
                     }   
                 });
+
+
+
             });
         </script>
 
