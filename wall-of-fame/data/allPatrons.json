@@ -37,6 +37,8 @@
      "Name":"Hendrik Blindheim" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
      "Name":"Jo Indgaard" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
+     {
+      "Name":"Jonas Vollan" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
      "Name":"Lasse Gerhardsen " ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
@@ -63,6 +65,8 @@
      "Name":"Tim Dunham" ,"Tier":""  },
   {
      "Name":"Fredrik" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
+     {
+      "Name":"Fredrik Dahlstrøm" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
      "Name":"Anders Rusten" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
@@ -107,7 +111,9 @@
      "Name":"Elizabeth Acklam" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
      "Name":"Ingjerd Vestengen" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
-  {
+     {
+      "Name":"Inger Oldervik Haugland" ,"Tier":"THE MOST BANG FOR YOUR BUCK", "user_id":"41644048"  },
+     {
      "Name":"Linnea" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
      "Name":"Kristian Pettersen" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
@@ -359,7 +365,9 @@
      "Name":"Sky Blazers" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
      "Name":"Erling " ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
-  {
+     {
+      "Name":"Erlend Brandsnes" ,"Tier":"THE MOST BANG FOR YOUR BUCK", "user_id":"41522849"  },
+     {
      "Name":"Kim André Bøe" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
      "Name":"Espen Bjørkeng" ,"Tier":"Bak kulissene"  },
@@ -421,6 +429,8 @@
      "Name":"Liss " ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
      "Name":"Håkon Roald" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
+     {
+      "Name":"Håkon Ragnvald Krognæs" ,"Tier":"THE MOST BANG FOR YOUR BUCK"  },
   {
      "Name":"Trond Aadnesen" ,"Tier":"Bak kulissene"  },
   {
