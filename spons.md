@@ -16,9 +16,6 @@ Korte utdrag fra episodene blir publisert gratis på [Spotify](https://open.spot
 
 Noen ganger er innholdet i podcasten attraktivt for kommersielle aktører - enten fordi budskapet og innholdet er relevant i forhold til hva de selger eller fordi de er sponsor av gjesten i podcasten. De har da mulighet til å **låse opp** episodene slik at hele episoden blir gratis og tilgjengelig for alle og enhver. Programlederen spiller demed inn en kreativ reklamesnutt og legger den inn før og etter episoden. Et godt eksempel på dette er [episoden med eventyrer Sindre Kolbjørnsgard](https://neda.buzzsprout.com/145661/6139327-113-sindre-kolbjornsgard-eventyrer-fotograf-og-filmskaper) hvor [Arc'teryx](https://arcteryx.com/no/no/) slang seg på. 
 
-<div id="buzzsprout-player-6139327"></div>
-<script src="https://www.buzzsprout.com/145661/6139327-113-sindre-kolbjornsgard-eventyrer-fotograf-og-filmskaper.js?container_id=buzzsprout-player-6139327&player=small" type="text/javascript" charset="utf-8"></script>
-
 ## Aktører som har reklamert i Nå Er Det Alvor
 
 {% include sponsors.html %}
