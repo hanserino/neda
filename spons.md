@@ -3,7 +3,7 @@ layout: spons
 permalink: /spons/
 title: Spons og reklame
 activeNav: spons
-logoTitle: spons
+logoTitle: patreon & reklame
 ---
 
 # Crowdfunding
@@ -14,10 +14,11 @@ NEDA er hovedsakelig finansiert ved bruk av crowdfundingplattformen [Patreon](ht
 # Reklame i podcasten
 Korte utdrag fra episodene blir publisert gratis på [Spotify](https://open.spotify.com/show/1s8OvAXNcqRa6oncqakhdg?si=QGVJzUrwQhKt5_lMDfp0Hw) og [Apple Podcast](https://podcasts.apple.com/no/podcast/n%C3%A5-er-det-alvor/id1332829214). 
 
-Noen ganger er innholdet i podcasten attraktivt for kommersielle aktører - enten fordi budskapet og innholdet er relevant i forhold til hva de selger eller fordi de er sponsor av gjesten i podcasten. De har da mulighet til å **låse opp** episodene slik at hele episoden blir gratis og tilgjengelig for alle og enhver. Programlederen spiller demed inn en kreativ reklamesnutt og legger den inn før og etter episoden. Et godt eksempel på dette er [episoden med eventyrer Sindre Kolbjørnsgard](https://neda.buzzsprout.com/145661/6139327-113-sindre-kolbjornsgard-eventyrer-fotograf-og-filmskaper) hvor [Arc'teryx](https://arcteryx.com/no/no/) slang seg på.
+Noen ganger er innholdet i podcasten attraktivt for kommersielle aktører - enten fordi budskapet og innholdet er relevant i forhold til hva de selger eller fordi de er sponsor av gjesten i podcasten. De har da mulighet til å **låse opp** episodene slik at hele episoden blir gratis og tilgjengelig for alle og enhver. Programlederen spiller demed inn en kreativ reklamesnutt og legger den inn før og etter episoden. Et godt eksempel på dette er [episoden med eventyrer Sindre Kolbjørnsgard](https://neda.buzzsprout.com/145661/6139327-113-sindre-kolbjornsgard-eventyrer-fotograf-og-filmskaper) hvor [Arc'teryx](https://arcteryx.com/no/no/) slang seg på. 
 
-Kontakt programlederen for pris på opplåsing av episoden.
+<div id="buzzsprout-player-6139327"></div>
+<script src="https://www.buzzsprout.com/145661/6139327-113-sindre-kolbjornsgard-eventyrer-fotograf-og-filmskaper.js?container_id=buzzsprout-player-6139327&player=small" type="text/javascript" charset="utf-8"></script>
 
-Her er en liste med aktører som har støttet en eller flere episoder av podcasten:
+## Aktører som har reklamert i Nå Er Det Alvor
 
 {% include sponsors.html %}
