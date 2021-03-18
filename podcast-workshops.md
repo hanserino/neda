@@ -6,13 +6,13 @@ activeNav: podcast-workshops
 logoTitle: workshops
 ---
 
-Jeg startet NEDA høsten 2018. I løpet av alle disse årene og de flere hundre innspillingene har jeg gjort mye riktig og mye galt. Jeg har blitt en ekspert på feltet ved å virkelig stressteste formatet. Jeg har podcastet i studio, i et telt i Patagonia, fra gatene i Kathmandu, på Everest Base Camp, i de Sveitsiske alpene og fra blåstien i Lillomarka. Jeg har syklet landet rundt og podcastet meg fra by til by med en båndopptaker og to små mikrofoner i sykkelveska. Jeg har redigert og publisert episoder rett til skyen fra smarttelefonen min mens jeg sitter på ferga fra Hellesylt til Geiranger. Jeg har spilt inn et intervju direkte fra en klatrevegg mens vi har klatret tre taulengder. Jeg har mildt sagt tatt poddingen til det ekstreme. 
+Jeg startet NEDA høsten 2018. I løpet av alle disse årene og de flere hundre innspillingene har jeg gjort mye riktig og mye galt. Jeg har blitt en ekspert på feltet ved å virkelig stressteste formatet. Jeg har podcastet i studio, i et telt i Patagonia, fra gatene i Kathmandu, i ei badstue på Korsvoll, på Everest Base Camp, i de Sveitsiske alpene og fra blåstien i Lillomarka. Jeg har syklet landet rundt og podcastet meg fra by til by med en båndopptaker og to små mikrofoner i sykkelveska. Jeg har redigert og publisert episoder rett til skyen fra smarttelefonen min mens jeg sitter på ferga fra Hellesylt til Geiranger. Jeg har spilt inn et intervju direkte fra en klatrevegg mens vi har klatret tre taulengder. Jeg har mildt sagt tatt poddingen til det ekstreme. 
 
 Jeg har naturligvis også lært noen triks og knep på min vei som kan være veldig nyttig for deg eller din bedrift som skal starte en podcast og spille den inn i et studio i kontrollerte omgivelser. 
 
 Jeg har undervist med dette kurset på Fagskolen Kristiania og holdt foredrag og workshops til bedrifter og institusjoner som ønsker å starte sin egen podcast. 
 
-## Eksempler på et kurs og workshop kan inneholde:
+# Eksempler på hva et kurs og workshop kan inneholde:
 - Hvordan oppretter man en podcast? 
 - Hvordan publiserer man den til iTunes, Spotify, Alexa, Stitcher etc.
 - Hvordan går man fra recording til ferdig produkt?
