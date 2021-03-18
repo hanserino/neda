@@ -10,7 +10,11 @@ En av mine lidenskaper er å hjelpe andre å nå deres mål. Jeg har levd som to
 
 - Et skreddersydd treningsprogram basert på din hverdag og livssituasjon
 - 2 stk sparring-samtaler i mnd
-- Race-spesifikt treningsopplegg
-- Enkel å bruke treningslogg-software
+- Konkurranse-spesifikt treningsopplegg
+- Enkel å bruke treningslogg-software som syncer med din smartklokke
 
 Ble du gira? Ring meg eller send meg en mail, så tar vi en prat før vi blir enige om detaljer og planen videre. 
+
+# Utøver-ressurser
+- [Samtale-booking](https://calendly.com/hanserino/coach-prat)
+- [TrainingPeaks](https://app.trainingpeaks.com/)
