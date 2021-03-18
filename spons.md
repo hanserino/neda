@@ -1,16 +1,20 @@
 ---
 layout: spons
 permalink: /spons/
-title: Spons
+title: Spons og reklame
 activeNav: spons
 logoTitle: spons
 ---
 
 # Crowdfunding
-N.E.D.A er hovedsakelig finansiert ved bruk av **crowdfunding**, dvs at en mengde mennesker spytter inn en slant hver måned. Som hjelpemiddel blir Patreon flittig brukt – ikke bare for å ta imot donasjoner, men for å gi disse menneskene eksklusivt innhold de ellers ikke ville hatt tilgang til. [Sjekk ut Patreon-siden til NEDA for mer info.](https://www.patreon.com/nedaproject)
+NEDA er hovedsakelig finansiert ved bruk av crowdfundingplattformen [Patreon](https://www.patreon.com/nedaproject). I tillegg til å være stedet hvor pengetransaksjonen skjer er det også der lytterne konsumerer podcasten. Om man melder seg på Mest Bang For The Buck-abonnementet får man en unik RSS-link som limes rett inn i podcast-appen. 
 
-# Kommersiell spons
-Det hender at en episode er sponset av kommersielle aktør. Disse aktørene har enten kontaktet programlederen direkte fordi de mener at budskapet og publikumet til en spesifikk episode er relevant for deres merkevare. En episode av NEDA er aldri sponset av en merkevare eller et produkt som ikke samsvarer med verdiene eller sjargongen til programlederen eller podcasten. 
+[Sjekk ut Patreon-siden til NEDA for mer detaljer.](https://www.patreon.com/nedaproject)
+
+# Kommersiell spons og reklame
+Korte utdrag fra episodene blir publisert gratis på Spotify og Apple Podcast. Noen ganger er innholdet i podcasten attraktivt for kommersielle aktører - enten fordi budskapet og innholdet er relevant i forhold til hva de selger eller fordi de er sponsor av gjesten i podcasten. De har da mulighet til å **låse opp** episodene slik at hele episoden blir gratis for alle og enhver. Programlederen spiller demed inn en kreativ reklamesnutt og legger den inn før og etter episoden. 
+
+Kontakt programlederen for pris på opplåsing av episoden.
 
 Her er en liste med aktører som har støttet en eller flere episoder av podcasten:
 
