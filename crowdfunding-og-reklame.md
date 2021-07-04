@@ -1,9 +1,9 @@
 ---
 layout: spons
-permalink: /spons/
-title: Spons og reklame
+permalink: /crowdfunding-og-reklame/
+title: Crowdfunding og reklame
 activeNav: spons
-logoTitle: patreon & reklame
+logoTitle: crowdfunding & reklame
 ---
 
 # Crowdfunding
