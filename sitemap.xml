@@ -36,6 +36,16 @@
 
    </url>
 
+
+   <url>
+
+      <loc>https://naerdetalvor.no/telefonsvarer/</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+
    <url>
 
       <loc>https://naerdetalvor.no/podcast-workshops/</loc>
@@ -51,4 +61,14 @@
       <changefreq>monthly</changefreq>
 
    </url>
+
+    <url>
+
+      <loc>https://naerdetalvor.no/spons/</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+
 </urlset>
