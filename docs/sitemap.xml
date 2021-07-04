@@ -30,11 +30,21 @@
 
    <url>
 
-      <loc>https://naerdetalvor.no/lope-coaching/</loc>
+      <loc>https://naerdetalvor.no/ultra-coaching/</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
+
+
+   <url>
+
+      <loc>https://naerdetalvor.no/telefonsvarer/</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
 
    <url>
 
@@ -51,4 +61,14 @@
       <changefreq>monthly</changefreq>
 
    </url>
+
+    <url>
+
+      <loc>https://naerdetalvor.no/crowdfunding-og-reklame/</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+
 </urlset>

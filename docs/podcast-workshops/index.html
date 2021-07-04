@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>NÅ ER DET ALVOR - Mye mer enn en podcast</title>  
+    <title>NÅ ER DET ALVOR - En ultra-podcast</title>  
     
     <meta name="Keywords" content="podcast foredrag løpecoaching ultraløping terrengløping workshop inspirasjon løpereiser ultra trener coach skyrunning bedriftpodcast">
     
@@ -19,7 +19,7 @@
     <meta property="og:url" content="https://naerdetalvor.no/">
 
 
-    <meta name="Keywords" content="Podcasting, løping, ultraløping, coaching, foredrag, workshop, Nå er det alvor" />
+    <meta name="Keywords" content="Podcast, løpe, ultraløping, neda, løpe podcast, løping, ultraløping, coaching, foredrag, workshop, kurs, Nå er det alvor" />
     <link href="https://fonts.googleapis.com/css?family=Bangers|Open+Sans" rel="stylesheet">
 
     <link rel="stylesheet" href="/assets/style/main.css"><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -66,7 +66,33 @@
 
     </defs>
 </svg>
-  <header class="header">
+  <!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v9.0'
+    });
+  };
+
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/nb_NO/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your Chat Plugin code -->
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="173703139909488"
+logged_in_greeting="Halla! Er det noe du lurer på? "
+logged_out_greeting="Halla! Er det noe du lurer på? ">
+</div>
+
+<header class="header">
     <a class="header__logo" href="/" title="Forside">
         <span class="workshops logo f-2">
     
@@ -86,14 +112,14 @@
         <li class="">
             <a href="/podcast">
                 <span class="header__nav__overlay"></span>
-                <span class="header__nav__text">Podcast</span>
-                <img src="/assets/media/navPics/podcast.jpg" alt="Bilde av programlederen i studio" />
+                <span class="header__nav__text">Podcasten</span>
+                <img src="/assets/media/navPics/ingvill_makestad_bovim_hans_kristian_smedsrod.jpg" alt="Ingvill Måkestad Bovim og programleder Hans Kristian Smedsrød under innspilling" />
             </a>
         </li>
         <li class="">
-            <a href="/lope-coaching">
+            <a href="/ultra-coaching">
                 <span class="header__nav__overlay"></span>
-                <span class="header__nav__text">Løpe-<br>coaching</span>
+                <span class="header__nav__text">Ultra-<br>coaching</span>
                 <img src="/assets/media/navPics/coaching.jpg" alt="Bilde av HK og Kenneth fra Bislett 50km" />
             </a>
         </li>
@@ -112,9 +138,9 @@
             </a>
         </li>
         <li class="">
-            <a href="/spons">
+            <a href="/crowdfunding-og-reklame">
                 <span class="header__nav__overlay"></span>
-                <span class="header__nav__text">Spons</span>
+                <span class="header__nav__text">Crowdfunding og reklame</span>
                 <img src="/assets/media/navPics/spons.jpg" alt="" />
             </a>
         </li>
@@ -124,23 +150,33 @@
   <main>
     <h1>Podcast-workshops</h1>
     
-    <p>Jeg spår at 2020 er podcastens år i Norge. Ikke bare skal “alle” privatpersoner ha en podcast, men også alle bedrifter skal ha det. Men burde din bedrift ha en podcast? Hvem er målgruppen? Skal du bruke den som et internt kommunikasjonsverktøy? Eller skal du spre et budskap til allmenheten? Eller kanskje begge deler? Men hvordan lager man egentlig en podcast? Om du hyrer meg inn til workshop i din bedrift kan du forvente å få svar på følgende spørsmål:</p>
+    <p>Jeg startet NEDA høsten 2018. I løpet av alle disse årene og de flere hundre innspillingene har jeg gjort mye riktig og mye galt. Jeg har blitt en ekspert på feltet ved å virkelig stressteste formatet. Jeg har podcastet i studio, i et telt i Patagonia, fra gatene i Kathmandu, i ei badstue på Korsvoll, på Everest Base Camp, i de Sveitsiske alpene og fra blåstien i Lillomarka. Jeg har syklet landet rundt og podcastet meg fra by til by med en båndopptaker og to små mikrofoner i sykkelveska. Jeg har redigert og publisert episoder rett til skyen fra smarttelefonen min mens jeg sitter på ferga fra Hellesylt til Geiranger. Jeg har spilt inn et intervju direkte fra en klatrevegg mens vi har klatret tre taulengder. Jeg har mildt sagt tatt poddingen til det ekstreme.</p>
 
+<p>Jeg har naturligvis også lært noen triks og knep på min vei som kan være veldig nyttig for deg eller din bedrift som skal starte en podcast og spille den inn i et studio i kontrollerte omgivelser.</p>
+
+<p>Jeg har undervist med dette kurset på Fagskolen Kristiania og holdt foredrag og workshops til bedrifter og institusjoner som ønsker å starte sin egen podcast.</p>
+
+<h1 id="eksempler-på-hva-et-kurs-og-workshop-kan-inneholde">Eksempler på hva et kurs og workshop kan inneholde:</h1>
 <ul>
   <li>Hvordan oppretter man en podcast?</li>
   <li>Hvordan publiserer man den til iTunes, Spotify, Alexa, Stitcher etc.</li>
   <li>Hvordan går man fra recording til ferdig produkt?</li>
-  <li>Hvilket type utstyr trenger man?</li>
+  <li>Hvilket type utstyr trenger man? Hva bruker jeg og hva bruker de andre “proffene”?</li>
   <li>Hvor høyt budsjett burde man ha?</li>
   <li>Hva er en universelt utformet podcast?</li>
   <li>Hvordan kan man benytte seg av Google’s AI-verktøy for stemmegjenkjenning til å transkribere podcasten?</li>
   <li>Hvordan klipper/redigerer man en podcast? Hvilken software brukes?</li>
   <li>Hvordan eksporterer man en lydfil slik at den blir optimalt lyttbar?</li>
-  <li>Hvordan kommer man seg opp på statistikken i iTunes?</li>
-  <li>Fins det SEO for podcasts? Bør du tenke på det?</li>
+  <li>Hvordan søke sponsorer?</li>
+  <li>Hvordan kommer man seg opp på statistikken i Apple Podcast?</li>
+  <li>SEO og tilgjengelighet</li>
+  <li>Patreon og crowdfunding vs reklamebasert</li>
+  <li>Markedsføring</li>
 </ul>
 
-<p>Ble du nysgjerrig? Da er det bare å slå på tråden. Kontaktinfo finner du nederst på siden.</p>
+<p>Og ja, dette lar seg enkelt gjøre over Zoom, Teams, Skype osv.</p>
+
+<p>Ble du gira? Kontaktinfo finner du nederst på nettsiden.</p>
 
   </main>
   <footer>
@@ -172,7 +208,7 @@
                 </a>
             </li>
             <li>
-                <a target="_blank" href="https://www.instagram.com/naerdetalvor/" title="Nå er det alvor på facebook">
+                <a target="_blank" href="https://www.instagram.com/neda_podcast/" title="Nå er det alvor på facebook">
                     <svg class="icon icon-instagram" title="Nå Er Det Alvor på Instagram"><use xlink:href="#icon-instagram"></use></svg>
                     <span><abbr title="Nå Er Det Alvor">NEDA</abbr> på Instagram</span>
                 </a>

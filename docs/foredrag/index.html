@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>NÅ ER DET ALVOR - Mye mer enn en podcast</title>  
+    <title>NÅ ER DET ALVOR - En ultra-podcast</title>  
     
     <meta name="Keywords" content="podcast foredrag løpecoaching ultraløping terrengløping workshop inspirasjon løpereiser ultra trener coach skyrunning bedriftpodcast">
     
@@ -19,7 +19,7 @@
     <meta property="og:url" content="https://naerdetalvor.no/">
 
 
-    <meta name="Keywords" content="Podcasting, løping, ultraløping, coaching, foredrag, workshop, Nå er det alvor" />
+    <meta name="Keywords" content="Podcast, løpe, ultraløping, neda, løpe podcast, løping, ultraløping, coaching, foredrag, workshop, kurs, Nå er det alvor" />
     <link href="https://fonts.googleapis.com/css?family=Bangers|Open+Sans" rel="stylesheet">
 
     <link rel="stylesheet" href="/assets/style/main.css"><!-- Global site tag (gtag.js) - Google Analytics -->
@@ -66,7 +66,33 @@
 
     </defs>
 </svg>
-  <header class="header">
+  <!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v9.0'
+    });
+  };
+
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/nb_NO/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your Chat Plugin code -->
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="173703139909488"
+logged_in_greeting="Halla! Er det noe du lurer på? "
+logged_out_greeting="Halla! Er det noe du lurer på? ">
+</div>
+
+<header class="header">
     <a class="header__logo" href="/" title="Forside">
         <span class="foredrag logo f-2">
     
@@ -86,14 +112,14 @@
         <li class="">
             <a href="/podcast">
                 <span class="header__nav__overlay"></span>
-                <span class="header__nav__text">Podcast</span>
-                <img src="/assets/media/navPics/podcast.jpg" alt="Bilde av programlederen i studio" />
+                <span class="header__nav__text">Podcasten</span>
+                <img src="/assets/media/navPics/ingvill_makestad_bovim_hans_kristian_smedsrod.jpg" alt="Ingvill Måkestad Bovim og programleder Hans Kristian Smedsrød under innspilling" />
             </a>
         </li>
         <li class="">
-            <a href="/lope-coaching">
+            <a href="/ultra-coaching">
                 <span class="header__nav__overlay"></span>
-                <span class="header__nav__text">Løpe-<br>coaching</span>
+                <span class="header__nav__text">Ultra-<br>coaching</span>
                 <img src="/assets/media/navPics/coaching.jpg" alt="Bilde av HK og Kenneth fra Bislett 50km" />
             </a>
         </li>
@@ -112,9 +138,9 @@
             </a>
         </li>
         <li class="">
-            <a href="/spons">
+            <a href="/crowdfunding-og-reklame">
                 <span class="header__nav__overlay"></span>
-                <span class="header__nav__text">Spons</span>
+                <span class="header__nav__text">Crowdfunding og reklame</span>
                 <img src="/assets/media/navPics/spons.jpg" alt="" />
             </a>
         </li>
@@ -128,13 +154,12 @@
 
 <p>Her er noen emner du kan forvente å få servert dersom du hyrer meg inn som foredragsholder:</p>
 <ul>
-  <li>Hva skal til for å livnære seg som podcaster i Norge?</li>
-  <li>Hvorfor jeg startet podcasten</li>
+  <li>Hva skal til for å livnære seg som nisje-podcaster i Norge?</li>
   <li>Workflow: Hvordan jeg podcaster</li>
   <li>Markedsføring: Teknikker og kanaler som er verdt å bruke</li>
   <li>Historier og mennesker jeg har møtt på på min podcast-ferd</li>
   <li>Ultraløping: hvordan jeg trener og lever som toppidrettsutøver</li>
-  <li>Patreon: Hva er det og hvordan tjener jeg penger med det?</li>
+  <li>Patreon og crowdfunding: Hva er det og hvordan tjener jeg penger med det?</li>
 </ul>
 
 <p>Ble du nysgjerrig? Da er det bare å slå på tråden. Kontaktinfo finner du nederst på siden.</p>
@@ -169,7 +194,7 @@
                 </a>
             </li>
             <li>
-                <a target="_blank" href="https://www.instagram.com/naerdetalvor/" title="Nå er det alvor på facebook">
+                <a target="_blank" href="https://www.instagram.com/neda_podcast/" title="Nå er det alvor på facebook">
                     <svg class="icon icon-instagram" title="Nå Er Det Alvor på Instagram"><use xlink:href="#icon-instagram"></use></svg>
                     <span><abbr title="Nå Er Det Alvor">NEDA</abbr> på Instagram</span>
                 </a>

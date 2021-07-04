@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="nb">
+
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109864300-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-109864300-1');
+        </script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>NEDA Wall Of Fame</title>
+        <link rel="icon" type="image/png" href="favicon-32x32.png" />
+
+        <meta property="og:site_name" content="NÅ ER DET ALVOR - Wall Of Fame" />
+        <meta property="og:title" content="NÅ ER DET ALVOR - Wall Of Fame" />
+        <meta property="og:image" content="patrons_fb.jpg">
+        <meta property="og:url" content="https://naerdetalvor.no/wall-of-fame">
+                
+        <link href="https://fonts.googleapis.com/css?family=Bangers|Open+Sans" rel="stylesheet">
+        
+        <style>
+            html, body, div, span,
+            h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+            a, abbr, img,
+            small,
+            b, u, i, center,
+            dl, dt, dd, ol, ul, li,
+            fieldset, form, label, legend,
+            table, caption, tbody, tfoot, thead, tr, th, td,
+            article, aside, canvas,
+            figure, figcaption, footer, header, 
+            nav, output, section, summary,
+            time, mark, audio, video {
+                margin: 0;
+                padding: 0;
+                border: 0;
+                font-size: 100%;
+                font: inherit;
+                vertical-align: baseline;
+            }
+
+            html,* {
+                box-sizing: border-box;
+                font-size: 100%;
+            }
+
+            body{
+                padding: 0; 
+                text-align: center;
+                font-family: 'Open Sans', sans-serif;
+            }
+            
+            h1, h2, .patron-name {
+                font-family: 'Bangers', cursive;    
+            }
+
+            #title {
+                display: block;
+                width: 100%;
+                font-size: 2.5rem;
+                color: black;
+                margin: 0 0 1rem 0;
+            }
+
+            @media (min-width: 650px){
+                .title {
+                    font-size: 4rem;
+                }
+            }
+
+            .wrapper{
+                max-width: 960px;
+                margin: 0 auto;
+            }
+
+            #patrons {
+                list-style: none;
+                padding: 0;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                margin: 0 auto;
+                position: relative;
+            }
+
+            .patrons__patron{
+                width: 10%;
+                height: auto;
+                padding: 0;
+                transition: .25s opacity ease 0;
+                opacity: 1;
+                order: 2;
+                position: relative;
+                cursor: pointer;
+                width: calc(1/10*100% - (1 - 1/10)*2px);
+                margin-bottom: 2px;
+            }
+
+            .new-badge{
+                position: absolute;
+                top: .25rem;
+                right: .25rem;
+                background: red;
+                color: white;
+                border: 1px solid white;
+                padding: 1px;
+                font-size: .5rem;
+                line-height: 1rem;
+                text-transform: uppercase;
+                border-radius: 50%;
+                width: 1.25rem;
+                height: 1.25rem;
+            }
+            .active .new-badge {
+                display: none;
+            }
+
+            #patrons:hover li:not(.active){
+                opacity: .75;
+            }
+
+            #patrons:hover li:hover{
+                opacity: 1;
+            }
+
+            #patrons li.active{
+                width: 100%;
+                order: 1;
+            }
+
+            #patrons li.active .patron-name{
+                display: inline-block;
+            }
+
+            .patron-pic{
+                width: 100%;
+                height: auto;
+                display: block;
+                cursor: pointer;
+            }
+
+            .patron-name{
+                position: absolute;
+                background: black;
+                color: white;
+                padding: .25rem;
+                font-size: 1.5rem;
+                width: auto;
+                right: 50%;
+                bottom: 0;
+                transform: translate(50%, -50%);
+                display: none;
+            }
+
+            .join{
+                position: relative;
+                z-index: 2;
+                color: black;
+                font-size: 1rem;
+                padding: 1rem;
+                background: rgba(255,255,255,.75);
+                max-width: 500px;
+                margin: 1rem auto;
+            }
+
+            .join a {
+                display: inline-block;
+                margin: 1rem 0;
+                font-family: sans-serif;
+                background-color: rgb(232, 91, 70);
+                color: white;
+                padding: .5rem 1rem;
+                text-decoration: none;
+                border-radius: 1rem;
+            }
+
+            .join a:hover span{
+                text-decoration: underline;
+            }
+
+            .join span{
+                display: inline-block;
+                vertical-align: middle;
+                margin-left: .25rem;
+            }
+
+            .patreon-logo{
+                align-self: center;
+                fill: transparent;
+                stroke-width: 1.2px;
+                height: 0.75rem;
+                width: 0.75rem;
+                display: inline-block;
+                vertical-align: middle;
+            }
+            .patreon-logo circle {
+                fill: #ffffff;
+            }
+            .patreon-logo rect {
+                fill: rgb(5, 45, 73);
+            }
+
+            .wrapper, 
+            .title, 
+            #patrons, 
+            .printout__join,
+            .neda-logo {
+                opacity: 0;
+                transition: .25s opacity ease-out .1s;
+            }
+
+            .wrapper {transition-delay: 0}
+            .title {transition-delay: .25s}
+            #patrons {transition-delay: .5s}
+            .printout__join {transition-delay: 1s}
+            .printout__join {transition-delay: 0s}
+
+            .wrapper,
+            .title,
+            #patrons,
+            .neda-logo,
+            .printout__join {opacity: 0;}
+            
+            [data-loaded="true"] .wrapper,
+            [data-loaded="true"] .title,
+            [data-loaded="true"] #patrons,
+            [data-loaded="true"] .neda-logo,
+            [data-loaded="true"] .printout__join {opacity: 1;}
+
+            .neda-logo{
+                position: relative;
+                display: inline-block;
+                margin: 1rem;
+                max-width: 200px;
+                width: 20vw;
+                z-index: 2;
+                border-radius: 50%;
+                cursor: pointer;
+                box-shadow: 1px 1px 1px 0px rgba(0,0,0,.5);
+                opacity: .5;
+            }
+
+
+            .neda-logo:active{
+                box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);
+            }
+
+            .neda-logo img {
+                display: block;
+                width: 100%;
+                height: auto;
+            }
+            @media (min-width: 650px){
+                .neda-logo{
+                    max-width: 200px;
+                    width: 15vw;
+                }
+            }
+            .pic_copyright {
+                font-size: .75rem;
+                display: inline-block;
+                width: 80%;
+                margin: 2rem auto;
+            }
+            .subtitle {
+                margin: 1rem 0;
+                font-size: 1.25rem;
+            }
+
+
+            #allPatrons{
+                margin: 3rem 0 0 0;
+            }
+
+            #simpleList {
+                list-style: none;
+                margin: 0;
+                padding: 0;
+                font-size: 0;
+                text-align: center;
+                width: 75%;
+                margin: 0 auto;
+            }
+
+            #simpleList li {
+                font-size: 1rem;
+                margin: 0 .5rem .5rem 0;
+                display: inline-block;
+            }
+
+            @media (min-width: 650px){
+       
+                li.active {
+                    background: black;
+                    border: none;
+                    margin-bottom: 2px;
+                }
+
+                li.active .patron-name {
+                    transform: translate(50%, 25%);
+                    bottom: 50%;
+                    right: 25%;
+                    font-size: 3.5rem;
+                }
+
+                li.active img {
+                    width: 50%;
+                }
+
+                .pic_copyright {
+                    width: 25%;
+                }
+            }
+
+        </style>
+    </head>
+
+    <body class="patrons">
+        <a class="neda-logo" href="/">
+            <img src="neda-logo.png" alt="NÅ ER DET ALVOR logo">
+        </a>
+
+        <div class="wrapper">
+            <h1 id="title">Patreon Wall Of Fame</h1>
+            <p class="subtitle">Disse menneskene støtter <abbr title="Nå Er Det Alvor">NEDA</abbr> med $10 eller mer på <a href="https://www.patreon.com/nedaproject">Patreon</a>:</p>
+            <ul id="patrons"></ul>
+            
+            <div id="allPatrons">
+                <p class="subtitle">Her er en liste med alle sammen: </p>
+                <ul id="simpleList"></ul>
+            </div>
+        </div>
+
+        <div class="join">            
+            <a target="_blank" href="https://www.patreon.com/nedaproject">
+                <svg class="patreon-logo" viewBox="0 0 569 546" xmlns="http://www.w3.org/2000/svg"><g><circle data-fill="1" id="Oval" cx="362.589996" cy="204.589996" r="204.589996"></circle><rect data-fill="2" id="Rectangle" x="0" y="0" width="100" height="545.799988"></rect></g></svg>
+                <span>Støtt NEDA og få tilgang til podcasten på Patreon</span>
+            </a>
+        </div>
+        
+        <script>
+
+            let patrons = {};
+            let allPatrons = {};
+            const titleEl = document.getElementById('title');
+            let siblings, allElements, activeElement;
+            let active;
+
+            function renderPicEl(inc, name, tier, id) {
+
+                var wrapHtml = `<li onclick="setActive(this, ${inc})" title="${name}" class="patrons__patron">
+                                <img class="patron-pic" src='patronPics/${id}.jpg' />
+                                <span class="patron-name">${name}</span>
+                            </li>`;
+                return wrapHtml;
+            }
+
+            function setActive(el, i){
+                activeElement = el;
+                siblings = activeElement.parentNode.children;
+                allElements = Array.from(siblings);
+                active = i;
+
+                console.log(el, i);
+
+                for (let element of allElements) {
+                    element.classList.remove('active')
+                }
+
+                el.classList.add("active");
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+                console.log(active);
+            }
+            
+
+            window.addEventListener('load', function () {
+                var patronsEl = document.getElementById("patrons");
+                var allPatronsEl = document.getElementById("simpleList");
+                var pic = false;
+                
+                fetch('data/patrons2.json').then(function (response) {
+                    return response.json().then(function (data) {
+                        patrons = data;
+
+                        for (var i = 0; i < patrons.length; i++) {
+                            patronsEl.innerHTML += renderPicEl(i, patrons[i].Name, patrons[i].Tier, patrons[i].user_id);
+                        }
+                    });
+                }).catch(error => {
+                    console.log(error, 'lol');
+                });
+
+            
+
+                function renderAllPatrons(name, tier, last){
+                    var comma = "";
+
+                    if (!last){
+                        comma = ", ";
+                    }
+
+                    return `<li class="" data-tier="${tier}">${name}${comma}</li>`;
+                }
+
+                fetch('data/allPatrons.json').then(function (response) {
+                    return response.json().then(function (data) {
+                        allPatrons = data;
+                        var lastItem = false;
+
+                        for (var i = 0; i < allPatrons.length; i++) {
+                            if(i === allPatrons.length-1){
+                                lastItem = true;
+                            }
+                            allPatronsEl.innerHTML += renderAllPatrons(allPatrons[i].Name, allPatrons[i].Tier, lastItem);
+                        }
+                    });
+                }).catch(error => {
+                    console.log(error);
+                });
+
+                document.body.setAttribute('data-loaded', 'true');
+
+                document.addEventListener('keyup', (e) => {
+                    if(allElements){
+                        console.log(active, allElements.length);
+                        
+                        if ( (e.code === "ArrowRight") && (active!=allElements.length-1) ){
+                            setActive(activeElement.nextSibling, active+1);
+                        }
+                        else if ( (e.code === "ArrowLeft") && active!=0) {
+                            setActive(activeElement.previousSibling, active-1);
+                        }
+                    }   
+                });
+
+
+
+            });
+        </script>
+
+    </body>
+</html> 

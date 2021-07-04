@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /wall-of-fame/
+Disallow: /wall-of-blame/
