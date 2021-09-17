@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "nb" }}">
+
+{% include head.html %}
+
+<body data-touch="" class="snacks">
+
+    {% include symbols.html %}
+
+    <header class="header">
+        <a class="header__logo" href="/" title="Forside">
+            {% include components/logo.html 
+                title=page.logoTitle
+            %}
+        </a>
+    </header>
+    
+    <main>        
+        {{ content }}
+    </main>
+
+
+</body> 
